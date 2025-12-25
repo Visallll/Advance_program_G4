@@ -1,4 +1,4 @@
-# ML multiclass- classification service
+# ML multiclass- classification services
 
 ## About the project
 This project consists of the Machine Learning service for image
